@@ -9,7 +9,7 @@ I'm interested in:
 - Human-computer interaction (including Interfaces and Human-AI Interaction)
 - Cyber-physical systems
 
-More about me at: [prlosana.com](www.prlosana.com)
+More about me at: [prlosana.com](https://prlosana.com/)
 
 <!--
 **prlosana/prlosana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
