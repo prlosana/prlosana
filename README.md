@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm interested in:
+- Digital twins
+- XR (mixed reality, augmented reality, virtual reality)
+- Artificial intelligence
+- Internet-of-things
+- Ambient intelligence
+- Human-computer interaction (including Interfaces and Human-AI Interaction)
+- Cyber-physical systems
+
+More about me at: [prlosana.com](www.prlosana.com)
+
 <!--
 **prlosana/prlosana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
